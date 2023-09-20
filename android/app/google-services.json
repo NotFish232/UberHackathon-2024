@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911379820386",
+    "project_id": "uberhackathon-f0c52",
+    "storage_bucket": "uberhackathon-f0c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911379820386:android:1a7c7190ebfa0def38063b",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxETFFSi1OPyOLhIXQPcRH3nha2AP62w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
